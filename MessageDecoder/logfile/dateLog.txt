@@ -1,0 +1,12 @@
+(13/02/2025 11:59:00) Início - Atividade Message Decoder
+(13/02/2025 11:59:04) Abre o website
+(13/02/2025 11:59:28) Captura e recorta o texto em búlgaro
+(13/02/2025 11:59:28) Abre o tradutor em outra aba
+(13/02/2025 11:59:32) Escreve o texto no tradutor
+(13/02/2025 11:59:37) Captura o texto traduzido para inglês
+(13/02/2025 11:59:40) Escreve a tradução no input
+(13/02/2025 11:59:40) Clica no botão 'Submit'
+(13/02/2025 11:59:42) Precisão: 90.79%
+(13/02/2025 11:59:42) Fecha a janela
+(13/02/2025 11:59:42) Sucesso - Atividade Message Decoder
+
