@@ -1,0 +1,19 @@
+(06/02/2025 10:44:38) Início - RPA Challenge
+(06/02/2025 10:44:42) Abre o website
+(06/02/2025 10:44:46) Clica no botão 'Start'
+(06/02/2025 10:44:46) Início do Loop
+(06/02/2025 10:44:46) Linha 0 preenchida
+(06/02/2025 10:44:47) Linha 1 preenchida
+(06/02/2025 10:44:48) Linha 2 preenchida
+(06/02/2025 10:44:49) Linha 3 preenchida
+(06/02/2025 10:44:49) Linha 4 preenchida
+(06/02/2025 10:44:50) Linha 5 preenchida
+(06/02/2025 10:44:51) Linha 6 preenchida
+(06/02/2025 10:44:52) Linha 7 preenchida
+(06/02/2025 10:44:52) Linha 8 preenchida
+(06/02/2025 10:44:53) Linha 9 preenchida
+(06/02/2025 10:44:53) Fim do Loop
+(06/02/2025 10:44:53) Your success rate is 100% ( 70 out of 70 fields) in 7283 milliseconds
+(06/02/2025 10:44:58) Fecha o navegador
+(06/02/2025 10:44:58) Sucesso - RPA Challenge
+
